@@ -46,4 +46,4 @@ This Power BI dashboard analyzes school infrastructure, student enrollment, teac
 - Highlighted infrastructure gaps across regions
 
 ## Github Project Link:
-[paste github link here]
+[[paste github link here](https://github.com/pushpameghanakanamarlapudi-gif/School-Infrastructure-Enrollment-Analytics-Dashboard.git)]
